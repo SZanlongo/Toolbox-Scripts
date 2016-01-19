@@ -2,7 +2,7 @@
 
 @ECHO Creating hosted network
 
-netsh wlan set hostednetwork mode=allow ssid=AdHox key=password
+netsh wlan set hostednetwork mode=allow ssid=AdHoc key=password
 
 @ECHO SSID: AdHoc	Key: password
 
